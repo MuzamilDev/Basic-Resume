@@ -1,2 +1,1 @@
-# Resme-Load
-I have made it with JavaScript and add Education , Skills, Experience fields.
+I have developed it through JavaScript, and you can update your education, Skills, experience fields.
